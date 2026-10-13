@@ -6,11 +6,11 @@ An interactive **Power BI dashboard** designed to analyze insurance premiums, co
 
 ### 1. Insurance Analytics Dashboard
 
-![Insurance Analytics Dashboard](images/dashboard-1.png)
+![Insurance Analytics Dashboard](imgs/dashboard-1.png)
 
 ### 2. Insurance Dataset
 
-![Insurance Dataset](images/dashboard-2.png)
+![Insurance Dataset](imgs/dashboard-2.png)
 
 ## 🚀 Key Features
 
@@ -27,6 +27,7 @@ An interactive **Power BI dashboard** designed to analyze insurance premiums, co
 - **Microsoft Power BI Desktop** — Dashboard development and visualization.
 - **CSV** — Source dataset.
 - **Power Query** — Data preparation and transformation, where applicable.
+- **SQL** - For data operation.
 
 ## 📁 Dataset Description
 
